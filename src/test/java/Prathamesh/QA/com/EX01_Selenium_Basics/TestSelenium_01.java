@@ -1,5 +1,7 @@
 package Prathamesh.QA.com.EX01_Selenium_Basics;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 

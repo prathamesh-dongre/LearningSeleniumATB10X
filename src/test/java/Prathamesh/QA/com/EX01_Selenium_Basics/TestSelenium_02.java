@@ -9,7 +9,7 @@ import java.sql.Driver;
 
 public class TestSelenium_02 {
 
-    public static void main(String[] args) throws InterruptedException {
+    public static  void main(String[] args) throws InterruptedException {
 
         ChromeDriver Chromium = new ChromeDriver();
         Chromium.get("https://www.facebook.com/");
